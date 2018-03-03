@@ -1,4 +1,4 @@
-# PIV1periodwaves
+# Particle Image Velocimetry (PIV)  of period waves
 
 Click the badge below to try out our jupyter notebook:
 
