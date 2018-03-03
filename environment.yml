@@ -10,6 +10,7 @@ dependencies:
   - matplotlib
   - openpiv
   - opencv
+  - cv2
   - ipywidgets=7
   - numpy
   - scikit-image
