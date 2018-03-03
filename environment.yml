@@ -13,4 +13,4 @@ dependencies:
   - ipywidgets=7
   - numpy
   - PIL
-  - skimage
+  - scikit-image
