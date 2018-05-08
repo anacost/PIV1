@@ -8,6 +8,5 @@ dependencies:
   - matplotlib
   - openpiv
   - opencv
-  - ipywidgets=7
   - numpy
   - scikit-image
